@@ -44,5 +44,5 @@ I am looking for growth.
 <img align="left" src="https://img.shields.io/badge/-TERMINAL-orange"/> 
 <img align="left" src="https://img.shields.io/badge/-IBM WATSON-yellowgreen"/> 
 <img align="left" src="https://img.shields.io/badge/-PHOTOSHOP-blue"/> <br/> 
---- <img align="left" alt="Ganesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ganeshkaricharla&show_icons=true&hide_border=true&theme=radical" /> 
+--- <img align="left" alt="Ganesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vighnesh777=true&hide_border=true&theme=radical" /> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkaricharla&hide=javascript,html)](https://github.com/ganeshkaricharla/github-readme-stats) <br/> --- <p align="left"> <img src="https://profile-counter.glitch.me/ganeshkaricharla/count.svg"/> </p> <p align="center"> <a href="https://github.com/ganeshkaricharla?tab=followers"> <img src="https://img.shields.io/github/followers/ganeshkaricharla?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" /> </a> </p>
