@@ -32,6 +32,9 @@ I am looking for growth.
 <img align="left" src="https://img.shields.io/badge/-CSS-yellow"/> 
 <img align="left" src="https://img.shields.io/badge/-JAVASCRIPT-orange"/>
 <img align="left" src="https://img.shields.io/badge/-BOOTSTRAP-green"/>
+
+<br/>
+
 ### Tools 
 
 <img align="left" src="https://img.shields.io/badge/-VSCODE-blue"/>
