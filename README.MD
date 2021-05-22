@@ -17,6 +17,9 @@ I am looking for growth.
 <img align="left" src="https://img.shields.io/badge/-C-blue"/> 
 <img align="left" src="https://img.shields.io/badge/-JAVA-red"/> 
 <img align="left" src="https://img.shields.io/badge/-PYTHON-yellow"/> 
+
+<br/>
+
 ### Query Languages 
 <img align="left" src="https://img.shields.io/badge/-SQL-yellowgreen"/> 
  
