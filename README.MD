@@ -14,21 +14,19 @@ I am looking for growth.
 / Tools /Languages 
 ### Programming Languages 
 <img align="left" src="https://img.shields.io/badge/-C-blue"/> 
-<img align="left" src="https://img.shields.io/badge/-C++-blueviolet"/> 
 <img align="left" src="https://img.shields.io/badge/-JAVA-red"/> 
 <img align="left" src="https://img.shields.io/badge/-PYTHON-yellow"/> 
-<img align="left" src="https://img.shields.io/badge/-R Language-blue"/> 
 <br/> 
 ### Query Languages 
 <img align="left" src="https://img.shields.io/badge/-SQL-yellowgreen"/> 
 <br/> 
 ### Skills 
-<img align="left" src="https://img.shields.io/badge/-DATA ANALYSIS-yellow"/> 
-<img align="left" src="https://img.shields.io/badge/-MACHINE LEARNING-green"/> 
+
+
 <img align="left" src="https://img.shields.io/badge/-COMPETITIVE PROGRAMMING-red"/> 
 <img align="left" src="https://img.shields.io/badge/-GRAPHIC DESIGN-blue"/> 
 <img align="left" src="https://img.shields.io/badge/-DATA STRUCTURES AND ALGORITHMS-orange"/> 
-<img align="left" src="https://img.shields.io/badge/-IT AUTOMATION-blueviolet"/> <br/>
+
 ### Web Design
 <img align="left" src="https://img.shields.io/badge/-HTML-orange"/>
 <img align="left" src="https://img.shields.io/badge/-CSS-yellow"/> 
@@ -37,10 +35,8 @@ I am looking for growth.
 ### Tools 
 <img align="left" src="https://img.shields.io/badge/-VSCODE-blue"/>
 <img align="left" src="https://img.shields.io/badge/-GIT-green"/> 
-<img align="left" src="https://img.shields.io/badge/-JUPYTER-orange"/> 
-<img align="left" src="https://img.shields.io/badge/-MSOFFICE-red"/> 
-<img align="left" src="https://img.shields.io/badge/-ORACLE-yellow"/>
-<img align="left" src="https://img.shields.io/badge/-DOCKER-blue"/> 
+
+
 <img align="left" src="https://img.shields.io/badge/-TERMINAL-orange"/> 
-<img align="left" src="https://img.shields.io/badge/-IBM WATSON-yellowgreen"/> 
+
 <img align="left" src="https://img.shields.io/badge/-PHOTOSHOP-blue"/> <br/> 
