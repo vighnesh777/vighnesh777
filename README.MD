@@ -25,6 +25,8 @@ I am looking for growth.
 <img align="left" src="https://img.shields.io/badge/-GRAPHIC DESIGN-blue"/> 
 <img align="left" src="https://img.shields.io/badge/-DATA STRUCTURES AND ALGORITHMS-orange"/> 
 
+<br/>
+
 ### Web Design
 <img align="left" src="https://img.shields.io/badge/-HTML-orange"/>
 <img align="left" src="https://img.shields.io/badge/-CSS-yellow"/> 
