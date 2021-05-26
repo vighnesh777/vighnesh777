@@ -7,9 +7,9 @@ I am looking for growth.
 - ✔️ Currently, I am looking for internships and research projects in the field of Computer science and engineering. 
 ### Brief about me 
 - 💻 I'm a Student, Developer, and Competitive Programmer.❤ 
-- 🌱 I’m currently learning everything 🤣 
-- 👯 I’m looking to collaborate with programmers 🤖🤖 
-- 🥅 2021 Goals: Should place in a company where i grow with my skills and Knowledge.😎 
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to collaborate with programmers.
+- 🥅 2021 Goals: Should place in a company where I can gradually gain skills and knowledge.
 --- 
 ## Skills 
 / Tools /Languages 
