@@ -1,7 +1,7 @@
 ## Hi there,
 I'm Vighnesh. I consider myself as a smart worker and determined team player. 
 I am an developer skilled in Java, Web Design,Web penetration testing and it's tools 
-- ✔️ I'm a fast learner looking for interesting career opportunities in Data Anlytics and Software Developer. 
+- ✔️ I'm a fast learner and I'm an Intern at Zscaler as Cloud Operations Engineer. 
 I am awaiting a job with a decent salary and more importantly, a chance to build up my career and skills. 
 I am looking for growth. 
 - ✔️ Currently, I am looking for internships and research projects in the field of Computer science and engineering. 
